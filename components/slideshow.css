@@ -1,0 +1,198 @@
+.slideshow-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.slideshow-slide1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.slideshow-left-button {
+  top: 216px;
+  flex: 0 0 auto;
+  left: 32px;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f75e9;
+}
+
+.slideshow-icon {
+  width: 24px;
+  height: 24px;
+}
+.slideshow-slider-image {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: flex-end;
+  background-image: url('https://images.unsplash.com/photo-1683009427590-dd987135e66c?ixid=M3w5MTMyMXwxfDF8YWxsfDIxfHx8fHx8Mnx8MTY4NjQ4MTMxMXw&ixlib=rb-4.0.3&w=1500');
+  background-position: center;
+}
+.slideshow-right-button {
+  flex: 0 0 auto;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f75e9;
+}
+
+.slideshow-icon02 {
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.slideshow-slide2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.slideshow-left-button1 {
+  top: 216px;
+  flex: 0 0 auto;
+  left: 32px;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f75e9;
+}
+
+.slideshow-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.slideshow-slider-image1 {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: flex-end;
+  background-image: url('https://images.unsplash.com/photo-1686370763846-936d3ed69b74?ixid=M3w5MTMyMXwwfDF8YWxsfDE1fHx8fHx8Mnx8MTY4NjQ4ODkxM3w&ixlib=rb-4.0.3&w=1500');
+  background-position: center;
+}
+.slideshow-right-button1 {
+  flex: 0 0 auto;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f75e9;
+}
+
+.slideshow-icon06 {
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.slideshow-slide3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.slideshow-left-button2 {
+  top: 216px;
+  flex: 0 0 auto;
+  left: 32px;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f75e9;
+}
+
+.slideshow-icon08 {
+  width: 24px;
+  height: 24px;
+}
+.slideshow-slider-image2 {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: flex-end;
+  background-image: url('https://images.unsplash.com/photo-1682685797743-3a7b6b8d8149?ixid=M3w5MTMyMXwxfDF8YWxsfDIxfHx8fHx8Mnx8MTY4NjQ4ODkxM3w&ixlib=rb-4.0.3&w=1500');
+  background-position: center;
+}
+.slideshow-right-button2 {
+  flex: 0 0 auto;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f75e9;
+}
+
+.slideshow-icon10 {
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
