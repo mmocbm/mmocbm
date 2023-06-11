@@ -1,0 +1,333 @@
+.navigation-links-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links-navlink {
+  color: #ffffff;
+  text-decoration: none;
+}
+.navigation-links-text {
+  color: #ffffff;
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links-text1 {
+  color: #ffffff;
+  margin-left: var(--dl-space-space-twounits);
+}
+
+
+
+
+
+
+
+
+.navigation-links-root-class-name15 {
+  align-self: center;
+}
+@media(max-width: 767px) {
+  .navigation-links-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links-navlink {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-text {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-text1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+
+.about-us-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(90deg, rgb(0, 0, 0) 0.00%,rgb(255, 0, 0) 100.00%);
+}
+.about-us-header {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.about-us-container1 {
+  flex: 0 0 auto;
+  width: 962px;
+  height: 34px;
+  display: flex;
+  align-items: flex-start;
+}
+.about-us-nav {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  justify-content: center;
+  background-color: #000000;
+}
+.about-us-image {
+  top: 0px;
+  left: 45px;
+  bottom: 0px;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  z-index: 100;
+  position: absolute;
+  object-fit: cover;
+}
+.about-us-main-buttons {
+  width: 100%;
+  height: 128px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.about-us-button-who-we-are {
+  color: rgb(255, 255, 255);
+  width: 210px;
+  height: 61px;
+  font-style: normal;
+  font-weight: 600;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(255, 0, 0);
+}
+.about-us-button-robot-battle {
+  color: rgb(255, 255, 255);
+  width: 210px;
+  height: 61px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(255, 0, 0);
+}
+.about-us-button-past-battles {
+  color: rgb(255, 255, 255);
+  width: 210px;
+  height: 61px;
+  font-style: normal;
+  font-weight: 600;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(255, 0, 0);
+}
+.about-us-heading1 {
+  width: 100%;
+  height: 42px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.about-us-text03 {
+  color: rgb(255, 255, 255);
+}
+.about-us-pharagraph1 {
+  width: 100%;
+  height: 263px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-bottom: 24px;
+}
+.about-us-text04 {
+  color: #ffffff;
+  text-align: justify;
+}
+.about-us-heading2 {
+  width: 100%;
+  height: 42px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.about-us-text08 {
+  color: rgb(255, 255, 255);
+}
+.about-us-container2 {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-bottom: 24px;
+}
+.about-us-text09 {
+  color: rgb(255, 255, 255);
+  text-align: justify;
+}
+.about-us-text11 {
+  color: #ffffff;
+}
+.about-us-text14 {
+  color: #ffffff;
+}
+.about-us-text17 {
+  color: #ffffff;
+}
+.about-us-text20 {
+  color: #ffffff;
+}
+.about-us-text23 {
+  color: #ffffff;
+}
+.about-us-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 42px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.about-us-text26 {
+  color: #ffffff;
+}
+.about-us-container4 {
+  width: 100%;
+  height: 259px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-bottom: 24px;
+}
+.about-us-text27 {
+  color: rgb(255, 255, 255);
+  text-align: justify;
+}
+.about-us-container5 {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  padding-bottom: 0px;
+  justify-content: space-between;
+}
+.about-us-image1 {
+  width: 200px;
+  object-fit: cover;
+}
+.about-us-image2 {
+  width: 200px;
+  object-fit: cover;
+}
+@media(max-width: 991px) {
+  .about-us-pharagraph1 {
+    height: 299px;
+  }
+  .about-us-container2 {
+    height: 536px;
+  }
+  .about-us-container4 {
+    height: 321px;
+  }
+}
+@media(max-width: 767px) {
+  .about-us-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-nav {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .about-us-header {
+    padding: var(--dl-space-space-unit);
+    background-color: #000000;
+  }
+  .about-us-container1 {
+    width: 445px;
+    height: 47px;
+  }
+  .about-us-image {
+    height: 35px;
+  }
+  .about-us-main-buttons {
+    height: 114px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .about-us-button-who-we-are {
+    width: var(--dl-size-size-medium);
+    height: var(--dl-size-size-small);
+  }
+  .about-us-text {
+    font-size: 10px;
+  }
+  .about-us-button-robot-battle {
+    color: rgb(255, 255, 255);
+    width: 109px;
+    height: var(--dl-size-size-small);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+  }
+  .about-us-button-past-battles {
+    color: rgb(255, 255, 255);
+    width: var(--dl-size-size-medium);
+    height: var(--dl-size-size-small);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+  }
+  .about-us-pharagraph1 {
+    height: 616px;
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-container2 {
+    height: 945px;
+    padding-left: var(--dl-space-space-twounits);
+    margin-bottom: 5px;
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-container4 {
+    height: 593px;
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-image1 {
+    width: 125px;
+  }
+  .about-us-image2 {
+    width: 125px;
+  }
+}
